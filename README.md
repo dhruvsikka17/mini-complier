@@ -3,7 +3,7 @@
 
 This is a mini compiler for a subset of the C language built as part of our Compiler Design Lab Course of 6th semester.
 
-An intermediate code generator including lexer oand parser has been made using C and Yacc
+An intermediate code generator including lexer oand parser has been made using C,C++,Lex and Yacc
 
 | Phase     | Objective                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------|
