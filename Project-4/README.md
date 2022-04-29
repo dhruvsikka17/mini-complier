@@ -1,7 +1,6 @@
 # Compiler Design Project-4
 
 ## Intermediate Code Generation for a subset of the C language
-This code is built upon the semantic analyser designed in Project-3 with some modifications to the earlier structure.
 
 ### Installation and running
  1. Please make sure you have Lex/Flex and Yacc/Bison installed
