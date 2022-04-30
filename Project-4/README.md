@@ -10,7 +10,6 @@
 
 
 ### FEATURES
- - Backward compatibility with Semantic Analyser from Project-3
  - Code generation for arithmetic expressions
  - Backpatching for `if-else` statements and `nested if-else`
  - Backpatching for `while` and `for` loops
